@@ -1,4 +1,4 @@
-# getServerList
+# ServerList
 
 Get a list of available servers.
 
