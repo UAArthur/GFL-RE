@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+    <server>
+        <name>GRIFFIN</name>
+        <addr>http://gf-game.sunborngame.com/index.php/1001/</addr>
+        <worldId>1001</worldId>
+        <recommended>0</recommended>
+        <condition>0</condition>
+        <is_check>0</is_check>
+        <nc>0</nc>
+        <ab_version>2026021017</ab_version>
+        <open_time>1770174812</open_time>
+        <naive_switch>1</naive_switch>
+    </server>
+    <config>
+        <notice_url>http://www.girlsfrontline.co.kr/pages/notice</notice_url>
+        <update_log_url>http://www.girlsfrontline.co.kr/pages/update_url</update_log_url>
+        <update_start_time>2018-05-16 20:00:43</update_start_time>
+        <update_end_time>2036-09-01 00:00:00</update_end_time>
+        <client_version>30710</client_version>
+        <platform></platform>
+        <top_client_version>0</top_client_version>
+        <version_desc></version_desc>
+    </config>
+</servers>

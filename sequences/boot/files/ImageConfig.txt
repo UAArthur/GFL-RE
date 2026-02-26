@@ -1,0 +1,11 @@
+﻿//类型名|是否会保存到本地|资源名
+//HotUpdateBackground|true|Background161101.png
+HotUpdateBackground|true|1ff934568eb9d2a6_draw_221213175434.png
+LoginBackground|true|201805
+
+HomeBackground|true|
+attendance1|true|
+attendance2|true|98ec3528e3481499_draw_260210172833.png
+CDKey2|true|
+SevenSupply1|true|c30482012b01a83a_draw_181106004.png
+FirstPurchase1|true|
